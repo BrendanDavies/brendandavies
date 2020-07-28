@@ -1,6 +1,8 @@
 ### Hello, I am Brendan 👋
 
-I am a Software Engineer currently working as on the Connected Living Product suite at Comcast.
+I am a Software Engineer currently working on the xFi application at Comcast.
+
+
 <!--
 **BrendanDavies/brendandavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
