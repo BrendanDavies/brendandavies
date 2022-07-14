@@ -1,6 +1,6 @@
 ### Hello, I am Brendan 👋
 
-I am a Software Engineer currently working on the xFi application at Comcast.
+I am a Systems Engineer currently working on the Zero Trust products at Cloudflare.
 
 
 <!--
